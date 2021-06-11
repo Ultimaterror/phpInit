@@ -30,6 +30,7 @@ $users = [
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Users</title>
     <link rel="stylesheet" href="/css/all.css">
+    <link rel="stylesheet" href="/css/headerfooter.css">
     <link rel="stylesheet" href="/css/users.css">
 </head>                  
 <body>
@@ -51,5 +52,6 @@ $users = [
             <?php endforeach ?>
         </table>
     </main>
+    <?php include('footer.php'); ?>
 </body>
 </html>
