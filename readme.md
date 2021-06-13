@@ -35,7 +35,7 @@ Pour un lien [ici](www.google.com)
 
 ### Tableau
 | Tables      | Are          | Cool         |  
-| ----------- |:------------:| ------------:|
+| :---------- |:------------:| ------------:|
 | Ici c'est   | Ici c'est    | Ici c'est    | 
 | centré      | centré       | centré       |
 | à gauche    | au centre    | à droite     |
